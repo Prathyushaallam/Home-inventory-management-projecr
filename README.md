@@ -1,2 +1,2 @@
-# Home-inventory-management-projecr
+# Home-inventory-management-project
 __
